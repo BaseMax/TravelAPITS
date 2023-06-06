@@ -1,4 +1,4 @@
-# Travel API
+# Travel API TS
 
 This is a RESTful API for managing travel-related information, including cities, tourist places, and user authentication. It is built with NestJS and TypeScript.
 
